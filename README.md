@@ -1,0 +1,2 @@
+# India-General-Elections-2024-Data-Analysis-Interactive-Dashboard-SQL-Power-BI-Capstone-Project-
+An end-to-end data analytics capstone project analyzing India’s General Elections 2024 using SQL for data extraction &amp; transformation and Power BI for creating an interactive, visually rich dashboard. The project showcases advanced data cleaning, query optimization, KPI generation, and storytelling through dynamic visualizations.
